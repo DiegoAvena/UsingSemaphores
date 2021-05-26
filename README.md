@@ -1,5 +1,8 @@
 # UsingSemaphores
 
+![UsingSemaphores](https://user-images.githubusercontent.com/43594702/119715275-a9ab4b00-be18-11eb-9de4-f025f5a11bdc.png)
+
+[See it in action!](https://www.youtube.com/watch?v=qHeY9KjuQok)
 
 ## Overview 
 
